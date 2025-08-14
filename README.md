@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Enoma Ibude  
-**Data Analyst 📊 | Data Scientist 🤖 | AI/ML Enthusiast | Automation Engineer 🔧**
+**Data Analyst 📊 | Data Scientist 🤖 | AI/ML Enthusiast**
 
 ---
 
 ## 🚀 About Me
-I am **Enoma Ibude**, a result-driven and innovation-focused **Data Analyst** and **Data Scientist** passionate about turning raw data into actionable insights.  
-My expertise lies in **data analytics**, **machine learning**, and **automation technologies** to build predictive models, streamline processes, and drive smarter decision-making.  
+I am **Enoma Ibude**, a result-driven and innovation-focused **Data Analyst** and **Data Scientist** passionate about turning raw data into actionable insights.  My expertise lies in **data analytics**, **machine learning**, and **automation technologies** to build predictive models, streamline processes, and drive smarter decision-making.  
 
 I have experience across diverse fields including **IoT, renewable energy analytics, automation & control, and business intelligence**, with a strong focus on delivering measurable impact.
 
