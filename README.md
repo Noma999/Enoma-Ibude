@@ -28,6 +28,13 @@ I have experience across diverse fields including **IoT, renewable energy analyt
 
 ---
 
+## 🎯 Fun Facts  
+- 💬 I love **mentoring aspiring tech professionals**  
+- 🛫 I enjoy traveling and exploring new cultures  
+- ☕ Strong believer in **"Coffee + Data = Insights"**  
+
+---
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FeV7NJATk1h4zcc6AzC-4NgevGLXpDfy/view?usp=sharing](https://drive.google.com/file/d/1FeV7NJATk1h4zcc6AzC-4NgevGLXpDfy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
